@@ -16,4 +16,6 @@ He subido el archivo lulc-classification.ipynb, para que funcione, la estructura
   lulc-classification
     train
     test
-    
+
+Ver estructura_dataset.png
+
