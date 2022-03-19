@@ -1,10 +1,10 @@
-Poes na abes
 
+Podemos dividir el trabajo en los siguientes bloques tentativos:
 
-Aquí podemos poner lo que hemos ido intentando
+1. Carga de las imágenes, generación del archivo submission, Dropout, etc...
 
-Po zí.
+2. Transfer Learning.
 
-Ya pisha
+3. Callbacks, checkpoint.
 
-sdafhsdakñljhd
+4. Data Augmentation.
