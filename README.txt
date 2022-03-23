@@ -21,6 +21,6 @@ Ver estructura_dataset.png
 
 Enlaces a los datos:
 
-lulc-classification: https://drive.google.com/file/d/1Tk8winU7J48QwPe8cA7Xx0PyZNXzUKW3/view?usp=sharing
+lulc-classification: https://drive.google.com/file/d/1hjpJfF5_nWbobbYRhR1rgvmIR4HyjOvT/view?usp=sharing
 
 lulc-3: https://drive.google.com/file/d/1ADcSzHOI8T8hvnmBbGbi6rp1VBIjrOK6/view?usp=sharing
