@@ -10,4 +10,5 @@ Podemos dividir el trabajo en los siguientes bloques tentativos:
 4. Data Augmentation.
 
 
-https://tfhub.dev/google/imagenet/efficientnet_v2_imagenet21k_m/feature_vector/2
+<a href>https://tfhub.dev/google/imagenet/efficientnet_v2_imagenet21k_m/feature_vector/2</a>
+
