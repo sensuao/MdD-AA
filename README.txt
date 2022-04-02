@@ -10,17 +10,4 @@ Podemos dividir el trabajo en los siguientes bloques tentativos:
 4. Data Augmentation.
 
 
-
-He subido el archivo lulc-classification.ipynb, para que funcione, la estructura de carpetas de las imágenes tiene que ser:
-
-  lulc-classification
-    train
-    test
-
-Ver estructura_dataset.png
-
-Enlaces a los datos:
-
-lulc-classification: https://drive.google.com/file/d/1hjpJfF5_nWbobbYRhR1rgvmIR4HyjOvT/view?usp=sharing
-
-lulc-3: https://drive.google.com/file/d/1ADcSzHOI8T8hvnmBbGbi6rp1VBIjrOK6/view?usp=sharing
+https://tfhub.dev/google/imagenet/efficientnet_v2_imagenet21k_m/feature_vector/2
